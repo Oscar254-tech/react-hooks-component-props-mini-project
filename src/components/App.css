@@ -1,0 +1,47 @@
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+aside {
+  background: #f5f5f5;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+}
+
+aside img {
+  width: 100%;
+  max-width: 215px;
+  display: block;
+  margin: 0 auto 15px;
+}
+
+article {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+article h3 {
+  margin: 0 0 10px 0;
+  color: #333;
+}
+
+article small {
+  color: #666;
+}
+
+article p {
+  color: #444;
+  line-height: 1.6;
+}
